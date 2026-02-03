@@ -1,0 +1,2761 @@
+SCENE: MONICA'S APARTMENT
+
+MONICA: Just so you know, I'm not chasing you. I'm just going over there to give this to Ross.
+RACHEL: Okay.
+MONICA: I'm not chasing you!
+RACHEL: You're chasing me!
+MONICA: No I'm not!
+RACHEL: You are! You're chasing me!
+MONICA: Alright, fine! I'm chasing you! I'm chasing you!
+RACHEL: Why?
+MONICA: Because you're the only person who knows what I'm going through!
+
+SCENE: CENTRAL PERK
+
+ROSS: I just don't want to be single, okay? I just... I just want to be married again!
+(Rachel enters in a wet wedding dress)
+CHANDLER: And I just want a million dollars!
+
+SCENE: JOEY'S APARTMENT
+
+JOEY: It’s a moo point.
+RACHEL: A moo point?
+JOEY: Yeah, it’s like a cow’s opinion. It just doesn’t matter. It’s moo.
+RACHEL: Have I been living with him for too long, or did that all just make sense?
+
+SCENE: MONICA'S APARTMENT
+
+PHOEBE: If you want to receive emails about my upcoming shows, then please give me money so I can buy a computer.
+CHANDLER: So, how many cameras are actually on you?
+
+SCENE: HALLWAY
+
+CHANDLER: I'm not great at the advice. Can I interest you in a sarcastic comment?
+RACHEL: Some cheese?
+CHANDLER: I'm not great at the advice. Can I interest you in a sarcastic comment?
+
+SCENE: THE STANDUP MEETING
+
+MONICA: The build failed eighteen times last night. Who is commiting without linting?
+JOEY: I was testing in production. It saves time.
+ROSS: Testing in production violates the fundamental laws of software safety.
+CHANDLER: My will to live failed eighteen times last night too.
+RACHEL: Can we just fix it? The demo is in an hour.
+PHOEBE: Maybe the server is just having a bad hair day.
+MONICA: Servers do not have hair, Phoebe! They have uptime guarantees!
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I have refactored the codebase to use purely functional programming patterns.
+JOEY: Does that mean the buttons work now?
+ROSS: It means the state is immutable and side effects are contained.
+JOEY: So the buttons work?
+ROSS: The buttons are now an abstract concept of user intent.
+CHANDLER: So that's a no on the buttons working.
+
+SCENE: THE OFFICE
+
+RACHEL: The users want a feature to upload 4K videos.
+MONICA: We don't have the storage for that.
+RACHEL: Just put it in the cloud. The cloud is infinite.
+MONICA: The cloud is just someone else's computer that charges us money!
+CHANDLER: I can write a script to compress them into 8-bit pixel art.
+JOEY: Pixel art is retro. I like it. Ship it.
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: I wrote a script that plays jazz music when the CPU gets hot.
+ROSS: That is incredibly inefficient. You are wasting cycles monitoring heat to play audio.
+PHOEBE: It's thermal throttling with style, Ross.
+CHANDLER: My laptop sounds like a saxophonist having a seizure.
+JOEY: Can you make it play rock music when I deploy?
+MONICA: No one is playing music during deployments! We need focus!
+
+SCENE: THE WAR ROOM
+
+CHANDLER: We have a memory leak.
+ROSS: Is it in the heap or the stack?
+CHANDLER: It's in my brain. I'm leaking sanity.
+MONICA: Focus! Where is the leak coming from?
+JOEY: I added a loop that never ends. Is that bad?
+RACHEL: Joey, why would you do that?
+JOEY: I wanted the user to stay on the page forever. Retention hack.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: Why are there crumbs in my keyboard?
+JOEY: I was eating a scone while debugging.
+MONICA: Crumbs in the switches! Do you know how hard it is to clean mechanical switches?
+ROSS: Actually, compressed air applied at a 45-degree angle is quite effective.
+CHANDLER: I just buy a new laptop when mine gets dirty. Expense it as "hardware refresh."
+RACHEL: That explains why budget approval is so hard.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to estimate this ticket.
+ROSS: It is a complex algorithmic challenge. 13 points.
+JOEY: It's just a text box. 1 point.
+MONICA: It involves database migration. 8 points.
+PHOEBE: I pick the infinity card. Because software is never truly finished.
+CHANDLER: I pick the coffee cup card. Because I need to leave.
+
+SCENE: THE OFFICE
+
+MONICA: Who unplugged the testing server?
+PHOEBE: I needed to plug in my aromatherapy diffuser. The energy was stale.
+MONICA: The integration tests were running!
+PHOEBE: But now the room smells like lavender.
+ROSS: Lavender does not prevent regression bugs, Phoebe.
+CHANDLER: I don't know, I feel calmer about the bugs now.
+
+SCENE: PROD INCIDENT ROOM
+
+RACHEL: Twitter is exploding. The site is down.
+CHANDLER: I pushed a hotfix. It was more of a hot-break.
+ROSS: Did you not check the logs?
+CHANDLER: The logs were moving too fast! It was like the Matrix!
+MONICA: Rollback! execute the rollback script!
+JOEY: Which button is rollback? The red one or the slightly darker red one?
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I'm learning Python.
+ROSS: Excellent choice. It is very versatile.
+JOEY: Yeah, no curly braces. I hate curly braces. They look like little mustaches.
+CHANDLER: Wait until he finds out about whitespace errors.
+MONICA: If your indentation is off by one space, I will know.
+JOEY: I use tabs.
+MONICA: Get out.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: I need a roadmap for Q3.
+CHANDLER: My roadmap is to survive Q2.
+ROSS: We should implement a micro-frontend architecture.
+JOEY: Micro-frontend? Is that like small buttons?
+MONICA: No, it means breaking the UI into independent deployable units.
+PHOEBE: I like breaking things.
+
+SCENE: THE OFFICE
+
+CHANDLER: Why do we have 400 Jira tickets in the backlog?
+RACHEL: Those are ideas.
+MONICA: Those are clutter. I am closing them.
+ROSS: You cannot just close tickets! We might need that data for historical analysis.
+MONICA: Closed. Closed. Closed. It feels so good.
+JOEY: Hey, you closed my ticket for "Make logo spin".
+MONICA: And I'd do it again.
+
+SCENE: THE WAR ROOM
+
+ROSS: The API latency is 500ms. Unacceptable.
+JOEY: 500ms is fast! That's like half a second.
+ROSS: It should be under 50ms.
+CHANDLER: Just put a loading spinner that says "Reticulating Splines".
+PHOEBE: Or a joke. "Why did the server cross the road?"
+MONICA: No jokes. Optimization. Cache everything.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I organized the documentation alphabetically.
+CHANDLER: Who reads documentation?
+ROSS: I read documentation. It is the source of truth.
+CHANDLER: The code is the truth. The documentation is a lie we tell ourselves.
+RACHEL: Can someone just tell me how to run the app?
+JOEY: npm start. Or maybe yarn start. Try both.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The client is asking for blockchain integration.
+CHANDLER: No.
+ROSS: Why?
+RACHEL: They said it sounds cool.
+MONICA: It creates unneccessary complexity.
+PHOEBE: But we could mint NFTs of our bugs.
+JOEY: I'd buy that.
+
+SCENE: THE OFFICE
+
+ROSS: I have found a race condition.
+JOEY: Who won?
+ROSS: No, it means two threads are accessing memory simultaneously.
+JOEY: So it's a tie?
+CHANDLER: It means the code is gambling with our data, and the house always wins.
+MONICA: Lock the resources! Use a mutex!
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I'm rewriting the backend in Go.
+MONICA: Why?
+CHANDLER: Because I hate myself and I want to type "if err != nil" a thousand times.
+ROSS: Go offers superior concurrency primitives.
+PHOEBE: Go is a verb. I like action words.
+JOEY: Can I still use jQuery?
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My laptop is frozen.
+ROSS: Have you tried turning it off and on again?
+RACHEL: Yes, Ross. I'm not an idiot.
+MONICA: Did you try force quitting the process?
+RACHEL: I just closed the lid and hoped it would go away.
+CHANDLER: Ah, the ostrich algorithm. Classic.
+
+SCENE: THE WAR ROOM
+
+MONICA: The database is at 99% CPU.
+JOEY: Is that a high score?
+ROSS: It means we are about to crash.
+CHANDLER: Who wrote this unoptimized query?
+PHOEBE: I asked the database to find the meaning of life.
+MONICA: SELECT * FROM universe? Phoebe!
+
+SCENE: THE OFFICE
+
+JOEY: I fixed the bug by hiding the element with CSS.
+MONICA: That is not a fix!
+JOEY: The user can't see it. Problem solved.
+ROSS: The DOM element still exists. It consumes memory.
+CHANDLER: It's like sweeping dirt under the rug, but the dirt is RAM.
+RACHEL: Does it look fixed? Yes. Good job Joey.
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: I am blocked by the existential dread of modern capitalism.
+MONICA: Chandler, that is not a valid blocker for Jira.
+CHANDLER: Fine. I am blocked by the API team.
+ROSS: I am the API team.
+CHANDLER: Exactly.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: I need to hire a senior engineer.
+JOEY: I'm a senior engineer.
+MONICA: Joey, you learned React last week.
+JOEY: Yeah, but I learned it really fast. That's senior energy.
+ROSS: Seniority implies a depth of knowledge in system architecture.
+PHOEBE: I'm a senior spirit guide.
+CHANDLER: I'm just old.
+
+SCENE: THE OFFICE
+
+MONICA: Why is the indent style mixed? Tabs and spaces!
+CHANDLER: It was a copy-paste job from Stack Overflow.
+MONICA: You monster.
+ROSS: You must configure your editor to expand tabs to spaces.
+JOEY: I just hit the space bar really fast.
+MONICA: I'm going to be sick.
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: My code only works when the moon is full.
+ROSS: That is statistically impossible.
+PHOEBE: It's true. It's a werewolf script.
+CHANDLER: It's probably a timezone bug, Phoebe.
+MONICA: Timezones are the worst.
+JOEY: I just set everything to UTC. Universal Joey Time.
+
+SCENE: THE WAR ROOM
+
+RACHEL: We are trending on Hacker News.
+CHANDLER: Is it good or bad?
+RACHEL: They say our UI looks like it was designed by a blind potato.
+JOEY: Hey! I designed that UI.
+ROSS: Potatoes do not have visual cortices.
+MONICA: They are criticizing the load times. Fix the load times!
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I bought a mechanical keyboard. Cherry MX Blue switches.
+CHANDLER: Oh great. Now we can hear you thinking.
+MONICA: It is too loud. You cannot type after 9 PM.
+ROSS: The tactile feedback increases my typing efficiency by 12%.
+JOEY: Clicky clicky clicky. I like it.
+RACHEL: It sounds like a skeleton tap dancing.
+
+SCENE: THE STANDUP MEETING
+
+MONICA: Who approved the PR without reading it?
+JOEY: It was long!
+MONICA: It deleted the login route!
+JOEY: It looked like old code.
+CHANDLER: It was the authentication logic.
+PHOEBE: Maybe we don't need passwords. We should use trust.
+ROSS: Zero Trust is the security model, Phoebe. Not Maximum Trust.
+
+SCENE: THE OFFICE
+
+RACHEL: The investor wants a demo of the AI chatbot.
+CHANDLER: It's just a bunch of if-else statements.
+RACHEL: Don't tell them that. Call it a "heuristic engine".
+ROSS: Technically, it is a decision tree.
+JOEY: I put a robot icon on it. Now it's AI.
+MONICA: As long as it doesn't crash during the demo.
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I dreamed in code last night.
+ROSS: Was it compiled?
+CHANDLER: No, it was interpreted. And there were syntax errors.
+JOEY: I dreamed I was a cursor. Just blinking.
+PHOEBE: I dreamed that the internet was made of lasagna.
+MONICA: Layers. The internet has layers. That actually makes sense.
+
+SCENE: THE WAR ROOM
+
+MONICA: We have a DDOS attack.
+CHANDLER: Is it the Russians?
+ROSS: It's coming from a toaster in Ohio.
+PHOEBE: My toaster! I told you it was sentient.
+JOEY: Why is your toaster hacking us?
+PHOEBE: It's angry I bought a bagel.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: Can we use a no-code tool for the landing page?
+MONICA: No-code generates dirty code.
+ROSS: It abstracts away the fundamental control mechanisms.
+CHANDLER: But it means I don't have to do it. So I vote yes.
+JOEY: Can I drag and drop? I love dragging and dropping.
+MONICA: Fine. But I'm sanitizing the output.
+
+SCENE: THE STANDUP MEETING
+
+ROSS: I have completed the documentation for the API.
+CHANDLER: Is it updated?
+ROSS: It reflects the state of the API as of 9 AM.
+CHANDLER: It's 9:15 AM. So it's obsolete.
+MONICA: Keep the wiki updated!
+JOEY: I drew a picture of the API. It's a stick figure.
+
+SCENE: THE OFFICE
+
+MONICA: There is a typo in the variable name. "UserNmae".
+JOEY: It works though.
+MONICA: It is an abomination. Global search and replace.
+CHANDLER: Careful, you might replace "Surname" with "SurNmae".
+ROSS: Regular expressions. Use a boundary anchor.
+PHOEBE: I named a variable "Greg".
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to A/B test the headline.
+MONICA: We need to set up the tracking buckets.
+CHANDLER: Can we C/D test it? C for "Can we stop" and D for "Don't care".
+ROSS: Statistical significance requires a sample size of at least 1000.
+JOEY: I asked my mom. She likes version A.
+RACHEL: Project cancelled. Joey's mom decided.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I think I have Carpal Tunnel.
+ROSS: You need an ergonomic setup. A split keyboard.
+JOEY: Just type with your toes.
+MONICA: Chandler, are you stretching?
+CHANDLER: I'm stretching the truth on my timesheets.
+PHOEBE: I use voice dictation. "Computer, write code."
+
+SCENE: THE WAR ROOM
+
+MONICA: The disk is full.
+CHANDLER: Delete the logs.
+ROSS: We need the logs for compliance.
+CHANDLER: Delete the compliance team.
+RACHEL: Buy more storage!
+JOEY: I have a USB drive. It's 8GB.
+MONICA: That won't help, Joey!
+
+SCENE: THE OFFICE
+
+PHOEBE: I deployed the chaos monkey.
+MONICA: On purpose?
+PHOEBE: It kills random services to test resilience.
+CHANDLER: Why did my screen just go black?
+PHOEBE: Oops. It killed the display driver.
+ROSS: That is not a service! That is the OS!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The deadline is tomorrow.
+CHANDLER: I feel a sudden illness coming on.
+JOEY: I have a dentist appointment.
+ROSS: I have a conference on theoretical physics.
+MONICA: You are all coming in on Saturday.
+PHOEBE: I can't. I'm protesting gravity.
+
+SCENE: MONICA'S APARTMENT
+
+JOEY: Look, I made the logo bigger.
+MONICA: It takes up half the screen.
+JOEY: It pops!
+ROSS: It violates the golden ratio.
+CHANDLER: It violates my eyes.
+RACHEL: The client loves it.
+MONICA: I hate everything.
+
+SCENE: THE OFFICE
+
+CHANDLER: My code works on my machine.
+MONICA: Then we shall ship your machine to the customer.
+ROSS: That is the principle behind Docker containers.
+CHANDLER: I am not living in a container.
+JOEY: Like a shipping container? Cool. Tiny house.
+PHOEBE: I could live in a container.
+
+SCENE: THE COFFEE BREAK
+
+ROSS: Have you seen the latest JavaScript framework?
+CHANDLER: It's been 10 minutes, so yes, there's a new one.
+JOEY: What's it called?
+ROSS: Vanilla.js.
+JOEY: Sounds delicious.
+MONICA: It's just standard JavaScript, Joey.
+JOEY: Oh. Pass.
+
+SCENE: THE WAR ROOM
+
+MONICA: 500 internal server error.
+CHANDLER: It's always the DNS.
+ROSS: It's not always DNS.
+CHANDLER: It's DNS.
+MONICA: Checked the DNS. It was DNS.
+CHANDLER: I am the oracle.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: I don't understand Git.
+MONICA: It's a directed acyclic graph.
+RACHEL: That doesn't help.
+JOEY: Think of it like a save point in a video game.
+RACHEL: Okay.
+ROSS: But with branching timelines that merge.
+CHANDLER: And sometimes everyone dies. That's a merge conflict.
+
+SCENE: THE OFFICE
+
+PHOEBE: I commented out the failing test.
+MONICA: Phoebe!
+PHOEBE: Now the build is green. Green is good.
+ROSS: That is a false negative.
+CHANDLER: Ignorance is bliss.
+MONICA: Uncomment it immediately!
+PHOEBE: You're ruining my vibes.
+
+SCENE: THE STANDUP MEETING
+
+JOEY: I'm working on the dark mode.
+MONICA: Is the color contrast accessible?
+JOEY: It's black text on a black background. Very dark.
+ROSS: That is unusable.
+CHANDLER: It's privacy mode. No one can read your data.
+RACHEL: Joey, please use grey.
+
+SCENE: PROD INCIDENT ROOM
+
+MONICA: We have a SQL injection vulnerability.
+CHANDLER: Little Bobby Tables strikes again.
+ROSS: sanitize your inputs!
+JOEY: I washed my hands.
+MONICA: Not your hands, the database inputs!
+PHOEBE: I sanitized the database with sage.
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I'm quitting to become a goat farmer.
+RACHEL: You say that every Tuesday.
+CHANDLER: Goats don't have merge conflicts.
+ROSS: Actually, herd hierarchy dynamics are quite complex.
+JOEY: Goats are cute. Can we get an office goat?
+MONICA: No goats in the server room!
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I explained the algorithm to her for three hours.
+CHANDLER: And?
+ROSS: She fell asleep.
+JOEY: I would have fallen asleep in five minutes.
+MONICA: Ross, not everyone cares about Big O notation.
+ROSS: It defines scalability! It is life!
+
+SCENE: THE OFFICE
+
+RACHEL: Can we change the font?
+MONICA: We have a design system.
+RACHEL: But Comic Sans is friendlier.
+CHANDLER: If we use Comic Sans, I resign.
+ROSS: It is professionally unacceptable.
+PHOEBE: I like Papyrus. It feels ancient.
+MONICA: Helvetica or death.
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: What did I do yesterday? I stared into the void.
+MONICA: Update your ticket.
+CHANDLER: "Ticket #402: Stared into void. Void stared back."
+JOEY: "Ticket #403: Ate sandwich."
+ROSS: These represent zero business value.
+PHOEBE: The void is full of value.
+
+SCENE: THE OFFICE
+
+MONICA: Who left the root shell open?
+JOEY: Is that the window? It was hot.
+ROSS: It is a security vulnerability of the highest order.
+CHANDLER: I think the cleaning lady now has sudo access.
+PHOEBE: Maybe she’ll clean up the spaghetti code.
+MONICA: Change the keys! Rotate the secrets!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The users are complaining about the slow load time.
+ROSS: I am optimizing the database indices.
+JOEY: I deleted the legal disclaimer. It loads faster now.
+RACHEL: Joey, we need that!
+JOEY: But no one reads it!
+CHANDLER: It’s true. I accepted my own soul away on three different apps today.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I have created a diagram of the system architecture.
+CHANDLER: It looks like a bowl of noodles.
+ROSS: It is a microservices mesh!
+JOEY: I’m hungry now.
+MONICA: It’s too coupled. Cut the dependencies.
+PHOEBE: Let the services be free, Monica.
+
+SCENE: THE WAR ROOM
+
+CHANDLER: The server is down.
+MONICA: What is the error log saying?
+CHANDLER: "Fatal error: Unexpected success."
+ROSS: That is impossible.
+JOEY: Maybe it did so good it died?
+PHOEBE: It ascended.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is a "Boolean"?
+ROSS: It is a data type with two possible values: true or false.
+JOEY: Like dating?
+CHANDLER: Dating is a float. It’s never 100% true.
+MONICA: Dating is a strict ENUM. Single, Taken, or It's Complicated.
+PHOEBE: My dating life is a random number generator.
+
+SCENE: THE OFFICE
+
+MONICA: I found a hardcoded password in the repo.
+JOEY: It was "password123". I didn't think anyone would guess it.
+ROSS: That is the first thing a brute force script tries.
+CHANDLER: I use "password1234". It adds an extra layer of complexity.
+MONICA: I am revoking all your credentials.
+
+SCENE: MONICA'S APARTMENT
+
+JOEY: I want to build an app that finds pizza.
+ROSS: Google Maps exists.
+JOEY: But this one is just for me.
+CHANDLER: So, "Joey Maps"?
+RACHEL: What’s the monetization strategy?
+JOEY: I eat the pizza.
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: I refactored the legacy module.
+MONICA: Did you write tests?
+CHANDLER: I wrote a comment that says "Good luck".
+ROSS: Documentation is not testing.
+PHOEBE: I sent the code positive vibes.
+MONICA: Vibes do not catch null pointer exceptions!
+
+SCENE: THE OFFICE
+
+ROSS: Stop pushing to master!
+JOEY: But I’m the master.
+MONICA: We use "main" now, and the branch is protected!
+JOEY: I forced the push.
+CHANDLER: You forced the push? You chose violence?
+RACHEL: The site is 404ing. Good job, Master Joey.
+
+SCENE: THE WAR ROOM
+
+MONICA: We have 10,000 pending requests.
+PHOEBE: Let’s just delete them.
+ROSS: Those are customers!
+PHOEBE: If they really want it, they’ll ask again.
+CHANDLER: This is why Phoebe is not in charge of customer support.
+JOEY: It’s the "Hard to Get" protocol.
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I hate RegEx.
+ROSS: It is a powerful tool for pattern matching.
+CHANDLER: It looks like a cat walked on the keyboard.
+JOEY: I thought it was a swear word.
+MONICA: You just need to escape the special characters.
+CHANDLER: I want to escape this conversation.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My internet is slow.
+ROSS: You are on the 2.4GHz band. Switch to 5GHz.
+RACHEL: I don't speak robot.
+MONICA: I prioritized my packets on the router.
+CHANDLER: Of course you did. Monica Quality of Service.
+JOEY: I’m stealing your wifi, by the way.
+
+SCENE: THE OFFICE
+
+MONICA: Your desk is a mess.
+CHANDLER: It’s organized chaos.
+MONICA: There are sticky notes from 2019.
+CHANDLER: That’s the backlog.
+ROSS: Physical clutter leads to mental clutter.
+JOEY: I found a half-eaten bagel under my monitor. Score.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a viral feature.
+JOEY: A button that makes a fart noise.
+ROSS: Please be serious.
+PHOEBE: A button that predicts your death.
+CHANDLER: A button that does my job for me.
+MONICA: A button that organizes your files.
+RACHEL: I hate all of you.
+
+SCENE: THE WAR ROOM
+
+ROSS: The machine learning model is hallucinating.
+JOEY: Is it seeing ghosts?
+ROSS: It is generating false data with high confidence.
+CHANDLER: Sounds like me in a management meeting.
+PHOEBE: Maybe it’s creative writing.
+MONICA: It’s a financial app, Phoebe! It can’t be creative!
+
+SCENE: THE OFFICE
+
+MONICA: Who turned off the CI server?
+CHANDLER: It was too loud.
+MONICA: It’s a fanless server in the cloud!
+CHANDLER: It was loud in my head.
+ROSS: The silence of the build failure is deafening.
+JOEY: I like silence.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I got a standing desk.
+CHANDLER: You’re sitting.
+JOEY: It adjusts. I adjust it to "sit".
+ROSS: Standing increases blood flow and cognitive function.
+PHOEBE: I hang upside down like a bat while coding.
+MONICA: That explains your variable naming convention.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: How do I clear my cache?
+ROSS: Command-Shift-Delete.
+RACHEL: I deleted my resume.
+CHANDLER: Well, you can't quit now.
+JOEY: Just hit undo!
+RACHEL: It’s gone. Into the void.
+
+SCENE: THE OFFICE
+
+MONICA: Code freeze is at 5 PM.
+JOEY: It’s 4:59 PM. Time for one last commit.
+ROSS: Don’t do it.
+CHANDLER: He’s going to do it.
+JOEY: Pushed.
+MONICA: The build broke.
+JOEY: Running!
+
+SCENE: THE STANDUP MEETING
+
+ROSS: I am working on a graph database implementation.
+JOEY: I am working on a sandwich.
+MONICA: Joey, update the board.
+JOEY: Moving "Sandwich" to "In Progress".
+CHANDLER: Moving "Will to live" to "Blocked".
+RACHEL: Can we focus?
+
+SCENE: THE WAR ROOM
+
+MONICA: The API rate limit is hit.
+CHANDLER: We’re too popular.
+ROSS: We are being scraped by a bot.
+PHOEBE: Hello bot. We come in peace.
+JOEY: Ban the bot!
+MONICA: IP blocked.
+PHOEBE: You killed him.
+
+SCENE: THE OFFICE
+
+CHANDLER: Why is this function 500 lines long?
+ROSS: It handles all the edge cases.
+CHANDLER: It handles the curvature of the earth.
+JOEY: If you scroll fast, it looks like animation.
+MONICA: Break it down! Helper functions!
+CHANDLER: I’m afraid to touch it. It breathes.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a dongle.
+ROSS: USB-C or Thunderbolt?
+RACHEL: The round one.
+CHANDLER: They’re all roundish.
+MONICA: I have a bag of dongles sorted by year of obsolescence.
+JOEY: I just jam it in. If it fits, it sits.
+
+SCENE: MONICA'S APARTMENT
+
+PHOEBE: I wrote a song about Java.
+CHANDLER: Let’s hear it.
+PHOEBE: "Public static void main... pain... pain..."
+ROSS: It captures the verbosity perfectly.
+JOEY: Do a rap about CSS next.
+PHOEBE: "Float left, float right, nothing works, goodnight."
+
+SCENE: THE OFFICE
+
+MONICA: We are migrating to Kubernetes.
+CHANDLER: Why?
+MONICA: Because everyone else is.
+ROSS: It offers superior orchestration.
+CHANDLER: It offers superior headaches.
+JOEY: Kuber-what-now?
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The font size is too small.
+ROSS: It is 12 pixels. Standard.
+RACHEL: Make it 14.
+JOEY: Make it 20. Huge.
+MONICA: It breaks the grid layout!
+CHANDLER: Make it random. Keep them guessing.
+
+SCENE: THE WAR ROOM
+
+MONICA: Segfault.
+CHANDLER: Core dumped.
+ROSS: We are accessing memory we do not own.
+PHOEBE: Communism code. Our memory.
+JOEY: Just download more RAM.
+MONICA: That’s not how it works!
+
+SCENE: THE OFFICE
+
+CHANDLER: I have been stuck on this bug for three days.
+ROSS: Have you tried rubber duck debugging?
+CHANDLER: I talked to the duck. The duck ignored me.
+JOEY: I talked to a sandwich. It agreed with me.
+PHOEBE: You need a crystal.
+CHANDLER: I need a new career.
+
+SCENE: THE COFFEE BREAK
+
+MONICA: I achieved Inbox Zero.
+CHANDLER: I have Inbox Infinity.
+ROSS: You should use filters.
+CHANDLER: I filter everything into "Trash".
+JOEY: I don't have email. I just wait for people to yell at me.
+RACHEL: We noticed.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: Vim is superior to Emacs.
+CHANDLER: Here we go.
+ROSS: It is lightweight and modal!
+MONICA: VS Code is better. It has extensions.
+JOEY: I use Notepad.
+ROSS: Get out of my apartment.
+
+SCENE: THE OFFICE
+
+RACHEL: Can we use blue for the button?
+MONICA: Which blue? We have fifty shades of blue defined.
+CHANDLER: Fifty Shades of Blue. Worst movie ever.
+JOEY: The bright one. Like the sky.
+ROSS: Sky blue varies depending on atmospheric scattering.
+RACHEL: Just pick a blue!
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: I am refactoring the authentication.
+JOEY: Again?
+CHANDLER: Security standards changed.
+PHOEBE: I use face recognition. I look at the screen and say "It's me".
+MONICA: That is not a security protocol.
+PHOEBE: It works for my mirror.
+
+SCENE: THE WAR ROOM
+
+MONICA: Deployment failed. Checksum mismatch.
+ROSS: The artifact is corrupted.
+CHANDLER: Like our souls.
+JOEY: Can we just upload the zip file via FTP?
+MONICA: No FTP! Never FTP!
+RACHEL: Just email me the code, I’ll put it on the website.
+ROSS: *Hyperventilates*
+
+SCENE: THE OFFICE
+
+CHANDLER: I found a comment in the code: "Do not touch. Magic."
+ROSS: Who wrote it?
+CHANDLER: Git blame says... it was me. 2018.
+JOEY: Past Chandler was a wizard.
+MONICA: Remove the magic. Explain the logic.
+CHANDLER: The magic is gone. Now it’s just sad code.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want to be a full stack developer.
+ROSS: You need to learn the backend. Database theory.
+JOEY: I know the backend. It’s where the data lives.
+CHANDLER: It’s where the data goes to die.
+MONICA: Can you write a SQL query?
+JOEY: SELECT * FROM Pizza.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My app crashed.
+ROSS: Send me the stack trace.
+RACHEL: The what?
+ROSS: The list of function calls leading to the error.
+RACHEL: It says "Oops".
+CHANDLER: Ah, the "Oops" exception. Very descriptive.
+PHOEBE: It means the computer is sorry.
+
+SCENE: THE OFFICE
+
+MONICA: We need to increase code coverage.
+CHANDLER: I’ll write a test that asserts true is true.
+MONICA: That counts as coverage but zero value!
+JOEY: I assert that Joey is hungry.
+ROSS: Test functionality, not tautologies!
+PHOEBE: I test for happiness.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We are launching on Monday.
+CHANDLER: Monday is a holiday.
+RACHEL: We launch on Tuesday.
+MONICA: Tuesday is patch Tuesday.
+JOEY: Wednesday is taco day.
+ROSS: Thursday works.
+CHANDLER: Thursday I am sick. Pre-emptively.
+
+SCENE: THE WAR ROOM
+
+MONICA: High CPU usage on Node 4.
+PHOEBE: Maybe it’s thinking really hard.
+ROSS: It is stuck in an infinite loop.
+CHANDLER: It’s contemplating the void.
+JOEY: Unplug it.
+MONICA: We cannot just unplug a production node!
+JOEY: Watch me.
+
+SCENE: THE OFFICE
+
+CHANDLER: Who stole my charger?
+JOEY: I borrowed it.
+CHANDLER: You have a different laptop!
+JOEY: The plug fit.
+ROSS: You are frying your motherboard with incorrect voltage!
+JOEY: It smells like burning plastic. Is that bad?
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to learn to code.
+ROSS: Start with C. It builds character.
+CHANDLER: Start with Python. It builds confidence.
+MONICA: Start with HTML. It builds structure.
+JOEY: Start with copy-paste. It builds careers.
+PHOEBE: Start with dreams.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I labeled the ethernet cables.
+CHANDLER: "Internet". "More Internet". "Backup Internet".
+MONICA: It’s a redundancy plan!
+ROSS: Labeling is crucial for topology maintenance.
+JOEY: I tied them in a knot. Now it’s a network.
+RACHEL: It looks like a snake.
+
+SCENE: THE OFFICE
+
+CHANDLER: The client wants to support Internet Explorer 6.
+MONICA: No.
+ROSS: Absolutely not.
+JOEY: What’s that?
+CHANDLER: An ancient evil.
+PHOEBE: We should support it. Respect your elders.
+MONICA: It is dead technology! Let it rest!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a blockchain strategy.
+CHANDLER: Our strategy is to not have one.
+ROSS: It is an inefficient append-only ledger.
+JOEY: Blocks? Like Lego?
+MONICA: No Legos in production!
+PHOEBE: I have a crypto coin. PhoebeCoin. It’s worth zero.
+
+SCENE: THE WAR ROOM
+
+MONICA: The logs are rotating too fast.
+CHANDLER: We’re logging every mouse movement.
+ROSS: Who enabled debug mode in production?
+JOEY: I wanted to see what was happening.
+MONICA: You filled the disk in 10 minutes!
+JOEY: But we have so much data now!
+
+SCENE: THE OFFICE
+
+CHANDLER: My build failed.
+ROSS: Why?
+CHANDLER: "Error: PC Load Letter".
+JOEY: What does that mean?
+CHANDLER: It means the printer is haunting my compiler.
+PHOEBE: Ghosts in the machine.
+
+SCENE: THE COFFEE BREAK
+
+MONICA: I’m going to rewrite the scheduler.
+CHANDLER: Don’t do it.
+MONICA: It’s messy. I can make it cleaner.
+ROSS: It is a trap. You will enter a rabbit hole of concurrency issues.
+MONICA: I can fix him.
+CHANDLER: It’s not a boyfriend, Monica. It’s a scheduler.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: Why is my phone hot?
+ROSS: You have 50 apps open in the background.
+RACHEL: I might need them.
+MONICA: Close them! It’s draining the battery!
+JOEY: My phone is cold. It’s dead.
+CHANDLER: The duality of man.
+
+SCENE: THE OFFICE
+
+CHANDLER: I’m automating my job.
+JOEY: So you can do more work?
+CHANDLER: So I can do no work.
+ROSS: If you automate it, they will fire you.
+CHANDLER: Not if I don’t tell them.
+PHOEBE: The script is your clone.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: Features are frozen.
+JOEY: Can I add one little thing?
+MONICA: No.
+JOEY: A sparkle effect?
+MONICA: No.
+JOEY: A sound effect?
+CHANDLER: Joey, go sit in the corner.
+
+SCENE: THE OFFICE
+
+MONICA: Who changed the linter rules?
+JOEY: I turned off the squiggly lines. They were stressing me out.
+MONICA: The squiggly lines are there to save you!
+JOEY: They judge me, Monica. They judge my code.
+ROSS: Without static analysis, we are savages.
+CHANDLER: I prefer the silence of the void over the judgment of the linter.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to hire a rockstar ninja developer.
+CHANDLER: Please don't use those words.
+ROSS: I am a 10x engineer.
+CHANDLER: You write 10 times more bugs?
+ROSS: No, I produce 10 times the theoretical value.
+PHOEBE: I'm a wizard. I cast spells on the server.
+
+SCENE: MONICA'S APARTMENT
+
+JOEY: I bought a mechanical keyboard. It lights up!
+MONICA: Does it make you code faster?
+JOEY: No, but it looks like a disco.
+ROSS: RGB lighting is a distraction.
+CHANDLER: My keyboard is beige. Like my soul.
+RACHEL: Can you turn off the strobing? I'm getting a headache.
+JOEY: No, it's hardcoded into the firmware.
+
+SCENE: THE WAR ROOM
+
+MONICA: The staging environment is down.
+CHANDLER: I think I accidentally deleted the database.
+MONICA: You what?
+CHANDLER: I thought I was in local! The terminals look the same!
+ROSS: This is why we color-code the prompts! Red for prod! Yellow for staging!
+JOEY: I thought red meant fast.
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: My laptop is haunted.
+ROSS: It is likely a virus.
+PHOEBE: No, a ghost. It types "help me" in the console.
+CHANDLER: That's the default placeholder text, Phoebe.
+PHOEBE: It's a cry for help from the machine spirit.
+MONICA: It's a UI component.
+
+SCENE: THE OFFICE
+
+RACHEL: Can we make the logo spin?
+MONICA: Why?
+RACHEL: Users love spinning things.
+ROSS: It induces motion sickness.
+JOEY: I can make it bounce.
+CHANDLER: Please, no bouncing.
+MONICA: Static logo. Final offer.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I'm writing a paper on distributed consensus.
+JOEY: Boring.
+ROSS: It's the foundation of modern computing!
+CHANDLER: Can we get a consensus on what to order for dinner?
+MONICA: Pizza.
+JOEY: See? Distributed consensus.
+ROSS: That is a dictatorship, not consensus.
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: I'm blocked by the client.
+MONICA: Why?
+CHANDLER: They won't give me the API keys.
+RACHEL: They said they sent them.
+CHANDLER: They sent a screenshot of the keys.
+ROSS: You have to type them out manually?
+CHANDLER: I am weeping.
+
+SCENE: THE WAR ROOM
+
+MONICA: High latency in the US-East region.
+JOEY: Maybe the internet is tired.
+ROSS: It is a routing issue.
+CHANDLER: Someone cut a cable with a shark.
+PHOEBE: I saw a shark today.
+MONICA: Phoebe, we are in a landlocked office.
+
+SCENE: THE OFFICE
+
+RACHEL: How do I open a .tar.gz file?
+ROSS: `tar -xzvf filename`.
+RACHEL: That looks like a cat walked on the keyboard.
+JOEY: Just double click it.
+ROSS: The terminal is more precise!
+CHANDLER: XZVF. Xylophone, Zebra, Violin, Failure.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want to make a video game.
+CHANDLER: You can't even make a loop.
+JOEY: I have ideas! A game where you eat sandwiches.
+MONICA: That's just your life, Joey.
+ROSS: Simulation theory suggests we are already in a game.
+PHOEBE: And the player is bad at it.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I cleaned up your desktop.
+CHANDLER: Where are my files?
+MONICA: In folders! Sorted by file type and date!
+CHANDLER: I can't find anything! Chaos was my system!
+ROSS: Order is efficiency.
+JOEY: I just search for "untitled".
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to pivot to mobile-first.
+CHANDLER: We are a desktop app.
+RACHEL: Mobile. First.
+ROSS: The screen real estate is insufficient for our data density.
+JOEY: I can shrink everything. Tiny text.
+MONICA: No one can read that!
+
+SCENE: THE OFFICE
+
+CHANDLER: My code is compiling.
+MONICA: So?
+CHANDLER: So I can't work. I'm sword fighting with Joey.
+JOEY: En garde!
+ROSS: Interpreted languages don't have compile time. Get back to work.
+CHANDLER: You're ruining the fun, Ross.
+
+SCENE: THE WAR ROOM
+
+MONICA: Memory leak in the image processor.
+JOEY: It's leaking pixels.
+ROSS: We are not freeing the buffers.
+CHANDLER: Let it leak. We have plenty of RAM.
+MONICA: We pay for that RAM! Fix it!
+PHOEBE: Maybe the RAM wants to be free.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a new mouse.
+MONICA: Fill out a procurement form.
+RACHEL: It takes three weeks!
+CHANDLER: I have a spare one. It has a ball inside.
+JOEY: A ball? Like a toy?
+ROSS: An optical mouse is far superior.
+
+SCENE: MONICA'S APARTMENT
+
+PHOEBE: I'm learning Assembly.
+ROSS: Why?
+PHOEBE: To talk to the metal.
+CHANDLER: She's going to the dark side.
+MONICA: It's unreadable.
+PHOEBE: MOV AX, BX. It's poetry.
+
+SCENE: THE OFFICE
+
+JOEY: I copy-pasted code from GitHub.
+MONICA: Did you check the license?
+JOEY: It has a license?
+ROSS: You could be violating copyright law!
+CHANDLER: Call the cyber police.
+JOEY: I changed the variable names. It's mine now.
+
+SCENE: THE STANDUP MEETING
+
+CHANDLER: I fixed the bug.
+MONICA: Did you close the ticket?
+CHANDLER: No.
+MONICA: Close the ticket!
+CHANDLER: The ticket closing process takes longer than the fix.
+RACHEL: Just drag it to the "Done" column.
+CHANDLER: It's heavy.
+
+SCENE: THE WAR ROOM
+
+MONICA: The SSL certificate is invalid.
+ROSS: It expired at midnight.
+CHANDLER: Cinderella protocol.
+JOEY: Does the website turn into a pumpkin?
+MONICA: It turns into a security warning! Renew it!
+
+SCENE: THE OFFICE
+
+RACHEL: I want a standing desk treadmill.
+MONICA: It's a safety hazard.
+JOEY: I tried one. I fell off while deploying.
+CHANDLER: You deployed your face to the floor.
+ROSS: Walking interferes with deep concentration.
+PHOEBE: I dance while I code.
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I'm burned out.
+ROSS: Take a break.
+CHANDLER: I am taking a break.
+ROSS: No, a real break. Go outside.
+CHANDLER: The graphics are good, but the gameplay is terrible.
+JOEY: And there's no respawn.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I found a bug in your open source project.
+ROSS: Impossible. I proved it correct.
+MONICA: Line 42. Off by one error.
+ROSS: ...
+CHANDLER: He's rebooting.
+JOEY: Ross.exe has stopped working.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: Can we add a chatbot?
+CHANDLER: No.
+RACHEL: Everyone has a chatbot.
+ROSS: Natural Language Processing is difficult.
+JOEY: I can be the chatbot. I type fast.
+MONICA: We are not paying you to pretend to be a robot.
+
+SCENE: THE OFFICE
+
+PHOEBE: I unplugged the server to charge my phone.
+MONICA: PHOEBE!
+PHOEBE: It was at 10%!
+ROSS: You took down the entire production cluster!
+CHANDLER: For a phone charge?
+PHOEBE: Prioritization.
+
+SCENE: THE WAR ROOM
+
+MONICA: 404 Not Found.
+CHANDLER: I found it. It's right here.
+ROSS: The server cannot find it.
+JOEY: Maybe it's hiding.
+MONICA: Check the routes!
+CHANDLER: It was a typo in the URL.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I love CSS.
+MONICA: You are the only one.
+JOEY: It's like painting.
+ROSS: It is a layout engine with inconsistent browser support.
+CHANDLER: centering a div is the hardest problem in computer science.
+PHOEBE: I just use `position: absolute` everywhere.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My laptop is making a noise.
+ROSS: It's the fan.
+RACHEL: It sounds like a jet engine.
+CHANDLER: It's preparing for takeoff.
+MONICA: Clean the vents!
+JOEY: Put it in the fridge.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm writing a script to automate my standup update.
+ROSS: That defeats the purpose of the meeting.
+CHANDLER: The purpose is to say "I'm working".
+JOEY: I just say "Same as yesterday".
+MONICA: You need to be specific!
+CHANDLER: "Specifically working on the same thing as yesterday".
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The client hates the color green.
+MONICA: It's our brand color!
+RACHEL: They want teal.
+ROSS: Teal is a shade of green.
+JOEY: I like purple.
+CHANDLER: Let's make it invisible.
+
+SCENE: THE WAR ROOM
+
+MONICA: Database deadlock.
+ROSS: Transaction A is waiting for Transaction B.
+CHANDLER: And Transaction B is waiting for Transaction A.
+JOEY: It's a standoff!
+PHOEBE: They are in love.
+MONICA: Kill the process!
+
+SCENE: THE OFFICE
+
+CHANDLER: I hate Mondays.
+ROSS: It is Tuesday.
+CHANDLER: I hate Tuesdays too.
+JOEY: I like Fridays.
+MONICA: Because you leave at 2 PM.
+JOEY: Deployment window closes at 2.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a new feature.
+CHANDLER: Put it in the backlog.
+RACHEL: It's urgent.
+CHANDLER: Put it in the urgent backlog.
+MONICA: The backlog is a black hole.
+ROSS: Event horizon.
+
+SCENE: MONICA'S APARTMENT
+
+JOEY: I got a job offer from Google.
+ROSS: Really?
+JOEY: No, it was spam.
+CHANDLER: "Dear Sir, I am Google Prince."
+JOEY: I almost replied.
+MONICA: Never reply to spam!
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm coding in the dark.
+MONICA: Turn on the lights.
+PHOEBE: It hurts my aura.
+ROSS: It hurts your eyes.
+CHANDLER: We are cavemen with glowing rocks.
+JOEY: Ooga booga code.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to increase user retention.
+JOEY: Lock the exit button.
+MONICA: That is illegal.
+CHANDLER: Dark patterns.
+ROSS: We must improve the value proposition.
+PHOEBE: Send them cookies. Real cookies.
+
+SCENE: THE WAR ROOM
+
+MONICA: CPU spike.
+CHANDLER: Mining bitcoin?
+ROSS: No, it's the regex parser.
+JOEY: Catastrophic backtracking.
+MONICA: Who wrote a greedy regex?
+CHANDLER: *Whistles*
+
+SCENE: THE OFFICE
+
+CHANDLER: Git push --force.
+MONICA: NO!
+CHANDLER: Too late.
+ROSS: You overwrote history!
+JOEY: Time travel!
+MONICA: I have to restore from backup. I hate you.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is an API?
+ROSS: Application Programming Interface.
+RACHEL: English, please.
+JOEY: It's a waiter. You ask for food, waiter gets food.
+CHANDLER: And sometimes the waiter spits in your food. That's a 500 error.
+MONICA: Perfect analogy.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I organized my cables.
+CHANDLER: You have a box of tangled wires.
+ROSS: It is organized chaos.
+JOEY: I need a USB-B cable.
+ROSS: Third drawer, left side.
+CHANDLER: Impressive.
+
+SCENE: THE OFFICE
+
+MONICA: Code review time.
+JOEY: Be gentle.
+MONICA: This is garbage.
+JOEY: You said gentle!
+ROSS: Objectivity is not cruel.
+CHANDLER: Your code makes me sad.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The app needs to be "pop".
+ROSS: Define "pop".
+RACHEL: You know, pop!
+CHANDLER: I will pop a vein.
+JOEY: Confetti?
+MONICA: No confetti.
+
+SCENE: THE WAR ROOM
+
+MONICA: The logs are empty.
+CHANDLER: Logging is expensive. I turned it off.
+MONICA: How do we debug?
+CHANDLER: Guesswork.
+ROSS: This is unprofessional.
+JOEY: I use psychic powers.
+
+SCENE: THE OFFICE
+
+PHOEBE: I renamed the server "Fluffy".
+MONICA: It breaks the naming convention!
+PHOEBE: "Prod-DB-01" is boring.
+ROSS: It describes the function!
+CHANDLER: Fluffy is a good boy.
+MONICA: Rename it back!
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want a vertical monitor.
+ROSS: For coding?
+JOEY: For reading long tweets.
+CHANDLER: Priorities.
+MONICA: Code is vertical!
+JOEY: Yeah, that too.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My wifi is down.
+ROSS: I'll fix it.
+RACHEL: You're going to lecture me about wavelengths.
+ROSS: No... yes.
+CHANDLER: Just reboot the router.
+JOEY: Hit it. Percussive maintenance.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm deleting `node_modules`.
+MONICA: See you in an hour.
+ROSS: The black hole of the file system.
+JOEY: Why does it take so long?
+CHANDLER: Small files. Millions of them.
+PHOEBE: It's a universe in there.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need emojis in the chat.
+MONICA: It's a banking app.
+RACHEL: People like emojis.
+ROSS: It undermines trust.
+JOEY: Money bag emoji!
+CHANDLER: Crying face emoji when I see my balance.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who has root access?
+CHANDLER: Everyone.
+MONICA: WHAT?
+ROSS: We shared the key.
+JOEY: Sharing is caring.
+MONICA: Revoke everything! Now!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm done.
+MONICA: Committed?
+CHANDLER: Mentally.
+ROSS: Did you push?
+CHANDLER: I'm pushing my chair back.
+JOEY: Lunch time!
+
+SCENE: THE OFFICE
+
+MONICA: Who hardcoded the API token in the frontend?
+JOEY: It was the only way to make it work!
+MONICA: It is visible to the entire world!
+JOEY: Only if they look at the source code.
+ROSS: Everyone looks at the source code, Joey.
+CHANDLER: I look at the source code to feel better about my own code.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The users want a "Delete All" button.
+MONICA: Dangerous.
+ROSS: We must implement a confirmation modal.
+JOEY: And a "Are you really sure?" modal.
+CHANDLER: And a "Call your mother" modal.
+PHOEBE: And a "Consult the stars" modal.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I have optimized the recursion depth.
+CHANDLER: Does it still crash?
+ROSS: Yes, but it crashes faster.
+JOEY: Speed is everything.
+MONICA: A fast crash is still a crash!
+PHOEBE: It's failing efficiently.
+
+SCENE: THE WAR ROOM
+
+MONICA: The cron job failed.
+CHANDLER: I hate cron jobs. They are ticking time bombs.
+ROSS: It is a deterministic scheduler.
+CHANDLER: It is a demon that wakes up at 3 AM to ruin my life.
+JOEY: Just run it manually when you wake up.
+MONICA: That defeats the purpose of automation!
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to learn SQL.
+ROSS: Start with SELECT statements.
+RACHEL: SELECT shoes FROM store WHERE price is low.
+JOEY: DROP TABLE diet.
+CHANDLER: INSERT INTO coffee (caffeine) VALUES (infinite).
+MONICA: JOIN gym ON guilt.
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm writing a virus.
+MONICA: Phoebe!
+PHOEBE: A good virus. It hugs your files.
+ROSS: That is ransomware with a smiley face.
+CHANDLER: I'd pay for a hug right now.
+JOEY: Does it steal my pizza?
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I need a new variable name.
+ROSS: `x`.
+CHANDLER: Too short.
+ROSS: `index`.
+CHANDLER: Too generic.
+JOEY: `thingy`.
+MONICA: `user_authentication_token_expiration_timestamp`.
+CHANDLER: I fell asleep typing that.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to support mobile.
+JOEY: I checked it on my phone. It looks... interesting.
+MONICA: Define interesting.
+JOEY: Everything is overlapping. It's art.
+ROSS: Responsive design requires media queries.
+CHANDLER: It requires a miracle.
+
+SCENE: THE WAR ROOM
+
+MONICA: Latency is 10 seconds.
+CHANDLER: That's enough time to contemplate my life choices.
+ROSS: The database is thrashing.
+JOEY: Maybe it's dancing.
+PHOEBE: Put on some techno music.
+MONICA: Index the columns! Stop the music!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm stuck in Vim.
+ROSS: Press Escape.
+CHANDLER: I did.
+ROSS: Type `:q!`.
+CHANDLER: I'm typing but nothing is happening.
+JOEY: Just buy a new computer. It's the only way out.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is "Cloud Native"?
+CHANDLER: It means it's expensive.
+ROSS: It means it is designed for distributed computing environments.
+JOEY: It means it lives in the sky.
+PHOEBE: Like birds.
+MONICA: It means we use Kubernetes.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I organized the cables by color.
+CHANDLER: Blue for sad, red for angry?
+MONICA: Blue for data, red for power.
+ROSS: That violates the EIA/TIA 568 standard.
+MONICA: My house, my standard.
+JOEY: I use wireless cables.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The dashboard is too white.
+JOEY: Dark mode!
+ROSS: Dark mode is easier on the eyes.
+MONICA: We have to redesign all the icons for dark mode.
+CHANDLER: I live in dark mode. It's called my apartment.
+PHOEBE: I want rainbow mode.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm pushing to production on a Friday afternoon.
+ROSS: Do not tempt fate.
+CHANDLER: I like danger.
+MONICA: I will cut your internet access.
+JOEY: YOLO deploy.
+RACHEL: What's the worst that can happen?
+CHANDLER: Don't ask that.
+
+SCENE: THE WAR ROOM
+
+MONICA: 503 Service Unavailable.
+CHANDLER: The service is taking a nap.
+ROSS: The load balancer is overwhelmed.
+JOEY: It needs a spotter.
+PHOEBE: Maybe it's shy.
+MONICA: Add more instances!
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I learned a new tag. `<blink>`.
+MONICA: That is deprecated.
+JOEY: But it blinks!
+ROSS: It is a crime against usability.
+CHANDLER: It brings back memories of the 90s.
+RACHEL: Make the "Buy" button blink.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I replaced the router firmware with OpenWRT.
+CHANDLER: Does Netflix work?
+ROSS: No, but I have full control over the packet routing tables.
+JOEY: So no Netflix?
+ROSS: I am configuring the VLANs.
+MONICA: Fix the Netflix, Ross!
+
+SCENE: THE OFFICE
+
+CHANDLER: My code is spaghetti.
+JOEY: I love spaghetti.
+MONICA: Refactor it.
+CHANDLER: If I pull one thread, the whole thing unravels.
+ROSS: Modularize.
+PHOEBE: Add sauce.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a search bar.
+CHANDLER: We have a search bar.
+RACHEL: It doesn't find anything.
+ROSS: It finds exact matches only. Case sensitive.
+JOEY: If I search "cat", I want "dog" too. They are friends.
+MONICA: That is not how search works!
+
+SCENE: THE WAR ROOM
+
+MONICA: The disk is 98% full.
+CHANDLER: Who is saving 4K movies on the server?
+JOEY: I needed a backup.
+MONICA: DELETE THEM.
+JOEY: But I haven't watched them yet!
+ROSS: This is a production database server, not a media center!
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm using a Dvorak keyboard layout.
+CHANDLER: Why?
+PHOEBE: It confuses the government spies.
+ROSS: It is ergonomically superior.
+JOEY: I type with two fingers. The "hunt and peck".
+MONICA: That sound drives me crazy.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is a cookie?
+JOEY: Chocolate chip.
+ROSS: It is a small piece of data stored on the user's computer.
+CHANDLER: It tracks your every move.
+PHOEBE: Like a stalker.
+MONICA: We need a GDPR banner for the cookies.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I have 50 tabs open.
+MONICA: Close them.
+CHANDLER: I might need them later.
+ROSS: You are consuming all your system memory.
+JOEY: I treat tabs like bookmarks.
+CHANDLER: If I restart, I lose my train of thought.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The app needs to be faster.
+ROSS: We can implement lazy loading.
+JOEY: I'm lazy loading right now.
+MONICA: Joey, wake up.
+CHANDLER: We can remove the features. That makes it fast.
+RACHEL: No removing features!
+
+SCENE: THE OFFICE
+
+MONICA: Who changed the indentation from 4 spaces to 2?
+JOEY: 2 is faster to type.
+MONICA: It ruins the visual hierarchy!
+ROSS: The Python style guide recommends 4.
+CHANDLER: I use 3. Just to watch the world burn.
+MONICA: Get out.
+
+SCENE: THE WAR ROOM
+
+MONICA: Infinite loop in the payment gateway.
+CHANDLER: Are we getting infinite money?
+ROSS: We are charging the user infinite times.
+JOEY: That's profitable!
+RACHEL: That's a lawsuit!
+MONICA: Break the loop!
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want to be a hacker.
+CHANDLER: You can't even remember your password.
+JOEY: I'll wear a hoodie. And sunglasses.
+ROSS: Hacking requires knowledge of network protocols.
+PHOEBE: I hacked a toaster once. It burned the toast.
+MONICA: That's just bad settings, Phoebe.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My phone won't sync.
+ROSS: Are you on the same subnet?
+RACHEL: I am on the couch.
+CHANDLER: The cloud is down. It's raining.
+JOEY: I'll hold it up to the window.
+MONICA: It's an authentication error!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm writing comments.
+MONICA: Good.
+CHANDLER: "// This code is bad and I feel bad."
+ROSS: Comments should explain *why*, not *what*.
+CHANDLER: "// Why: Because I was tired."
+JOEY: "// TODO: Fix later." (Last modified: 2015).
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to gamify the app.
+CHANDLER: Points for logging in?
+JOEY: Badges! I want a sheriff badge.
+ROSS: Gamification increases dopamine engagement loops.
+MONICA: Points for reporting bugs.
+PHOEBE: Points for being nice.
+
+SCENE: THE WAR ROOM
+
+MONICA: The backups are corrupted.
+CHANDLER: So we have no backups.
+ROSS: Schrödinger's backup. It exists and doesn't exist.
+JOEY: I emailed the code to myself last week.
+MONICA: Joey saves the company. I can't believe it.
+CHANDLER: We are doomed.
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm coding on my phone.
+ROSS: That is inefficient.
+PHOEBE: I'm thumb-typing Python.
+MONICA: The syntax errors must be everywhere.
+PHOEBE: Autocorrect fixes them.
+CHANDLER: Autocorrect for code? "If insert equals nil".
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want a bigger monitor.
+JOEY: Get two. Dual wield.
+ROSS: Three monitors is the optimal setup. Code, documentation, terminal.
+CHANDLER: Four monitors. The fourth one plays movies.
+MONICA: One monitor. Focus.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I deleted the wrong file.
+ROSS: Did you use `rm -rf`?
+CHANDLER: Yes.
+ROSS: Without checking the path?
+CHANDLER: I felt lucky.
+JOEY: Check the recycle bin.
+MONICA: The command line has no recycle bin!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: Can we use AI to write the code?
+CHANDLER: Then what do we do?
+JOEY: We drink coffee.
+ROSS: AI generates derivative boilerplate.
+MONICA: We still have to maintain it.
+PHOEBE: The AI will become our boss.
+
+SCENE: THE OFFICE
+
+MONICA: Why is the build taking 20 minutes?
+ROSS: Downloading dependencies.
+CHANDLER: The entire internet is being downloaded.
+JOEY: I added a high-res background image.
+MONICA: Compress it!
+JOEY: But the quality!
+
+SCENE: THE WAR ROOM
+
+MONICA: Packet loss.
+CHANDLER: Where did they go?
+ROSS: They were dropped by the router.
+PHOEBE: Poor little packets. lost in the ether.
+JOEY: Can we send a search party?
+MONICA: It's a network issue, not a rescue mission!
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I need a standing desk.
+ROSS: Sitting is the new smoking.
+JOEY: I code lying down.
+MONICA: That's napping.
+JOEY: I'm visualizing the algorithm.
+RACHEL: He's snoring.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I set up a home lab.
+CHANDLER: A lab?
+ROSS: A server rack in the closet.
+MONICA: It generates so much heat!
+ROSS: It is a private cloud.
+JOEY: Can I host my pizza app on it?
+
+SCENE: THE OFFICE
+
+CHANDLER: The documentation is blank.
+ROSS: It is self-documenting code.
+CHANDLER: No code is self-documenting.
+MONICA: Write the docs!
+JOEY: Once upon a time, there was a function...
+RACHEL: Make it a video tutorial.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The font is boring.
+ROSS: It is a system font. It loads fast.
+RACHEL: I want something swirly.
+MONICA: Swirly is not readable.
+CHANDLER: Wingdings.
+JOEY: I like the graffiti font.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who has the admin password?
+CHANDLER: I thought you had it.
+MONICA: I thought Ross had it.
+ROSS: I gave it to Joey.
+JOEY: I wrote it on a napkin.
+MONICA: Where is the napkin?!
+JOEY: I used it for my sandwich.
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm refactoring the universe.
+CHANDLER: Start with the coffee machine.
+ROSS: You are editing the config files?
+PHOEBE: I'm changing the vibration frequency.
+MONICA: Don't touch the production config!
+PHOEBE: Good vibes only.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want to be a CTO.
+CHANDLER: You need to know technology.
+JOEY: I'll just point at things and say "Scale it".
+ROSS: That is surprisingly accurate.
+RACHEL: Can I be the CEO?
+MONICA: I'll be the one who actually does the work.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: My mouse battery died.
+ROSS: Use the trackpad.
+CHANDLER: I hate the trackpad.
+JOEY: Use keyboard shortcuts. Tab tab tab enter.
+MONICA: I have spare batteries. In the drawer. Sorted by voltage.
+CHANDLER: You are a lifesaver.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a viral TikTok.
+ROSS: We make enterprise software.
+JOEY: I can dance.
+CHANDLER: Please don't.
+MONICA: No dancing in the server room.
+PHOEBE: I'll write a jingle. "Buy our software, or else".
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm retiring.
+MONICA: You are 30.
+CHANDLER: In tech years, I am 90.
+ROSS: The pace of innovation is rapid.
+JOEY: I'm still young. I just learned HTML.
+CHANDLER: Sweet summer child.
+
+SCENE: THE WAR ROOM
+
+MONICA: The logs show an error. "PC Load Letter".
+CHANDLER: Not again.
+ROSS: It is a printer error.
+MONICA: We don't even have a printer!
+PHOEBE: The ghost of the printer remains.
+JOEY: Spooky.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: Can I date a developer?
+CHANDLER: Don't recommend it.
+MONICA: They talk about code in their sleep.
+ROSS: We are logical and reliable partners.
+JOEY: And we can fix your wifi.
+RACHEL: Sold.
+
+SCENE: THE OFFICE
+
+MONICA: Who deployed to production without a changelog?
+JOEY: I like to keep it a surprise.
+MONICA: Software engineering is not about surprises!
+ROSS: Predictability is the cornerstone of reliability.
+CHANDLER: My code is surprisingly bad. Does that count?
+PHOEBE: I wrote the changelog on a leaf and let it fly away.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The client wants the app to work offline.
+CHANDLER: It's a website.
+RACHEL: They said "Progressive Web App".
+ROSS: That requires service workers and local caching strategies.
+JOEY: I'll just print the website out for them.
+MONICA: Joey, that is not scalable.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I am compiling the Linux kernel from scratch.
+CHANDLER: Why?
+ROSS: To optimize the scheduler for my specific workload.
+JOEY: I just downloaded "FastPC_Booster.exe".
+MONICA: Joey! That is malware!
+JOEY: But it has a flame icon!
+
+SCENE: THE WAR ROOM
+
+MONICA: The database transaction log is full.
+CHANDLER: Truncate it.
+ROSS: We need point-in-time recovery!
+CHANDLER: We need disk space more.
+JOEY: Can we delete the old users? They probably died.
+RACHEL: Joey!
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: I'm writing a program to talk to plants.
+ROSS: Plants do not have a digital interface.
+PHOEBE: They use bio-signals. I'm parsing the voltage.
+CHANDLER: If the plant asks for water, let me know.
+JOEY: If the plant asks for pizza, let me know.
+MONICA: Please don't connect the ficus to the wifi.
+
+SCENE: THE OFFICE
+
+CHANDLER: I have merge conflicts in every file.
+MONICA: Did you rebase?
+CHANDLER: I panicked and deleted the folder.
+ROSS: You lost your work?
+CHANDLER: I saved my sanity.
+JOEY: I just accept all changes. It makes a fun mix.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: I want to build a social network.
+ROSS: Do you have a graph database?
+RACHEL: I have a list of friends.
+CHANDLER: That's an array, not a graph.
+JOEY: I'll be the first user.
+MONICA: You need a privacy policy first.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The button needs to be more "clicky".
+ROSS: Haptic feedback?
+RACHEL: No, just... satisfying.
+JOEY: Add a sound effect. "Cha-ching!"
+MONICA: No sounds!
+CHANDLER: How about a scream? "Ahhh!"
+
+SCENE: THE WAR ROOM
+
+MONICA: The load average is 50.
+CHANDLER: Is that out of 100?
+ROSS: It is the number of processes waiting for CPU time.
+JOEY: They are waiting in line. Like a club.
+PHOEBE: Let them in!
+MONICA: The bouncer is dead!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm refactoring the legacy code.
+ROSS: It's dangerous to go alone.
+CHANDLER: It's full of magic numbers. 42, 7, 666.
+JOEY: 666? That's cursed code.
+PHOEBE: You need to smudge the server with sage.
+MONICA: You need unit tests, not sage.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I forgot my password.
+ROSS: Use the password reset flow.
+RACHEL: I forgot my security question answer.
+CHANDLER: "What is your mother's maiden name?"
+RACHEL: I don't know!
+JOEY: Just guess. Is it Smith?
+MONICA: That is not how security works.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I bought a Raspberry Pi.
+CHANDLER: Are you going to eat it?
+ROSS: It is a single-board computer.
+JOEY: I'm hungry now.
+MONICA: Don't leave crumbs on the GPIO pins.
+ROSS: I am building a weather station.
+
+SCENE: THE OFFICE
+
+MONICA: Why are there `console.log` statements in production?
+JOEY: I needed to see what was happening.
+MONICA: It logs "Joey was here".
+JOEY: And I was!
+ROSS: It pollutes the standard output.
+CHANDLER: It's digital graffiti.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to scale.
+CHANDLER: To where?
+RACHEL: To the moon.
+ROSS: That implies high latency.
+JOEY: I have a ladder.
+MONICA: Vertical scaling or horizontal scaling?
+RACHEL: Just... big scaling.
+
+SCENE: THE WAR ROOM
+
+MONICA: The API is throwing 401 Unauthorized.
+CHANDLER: Who changed the secret key?
+ROSS: It rotates automatically every 30 days.
+JOEY: I thought it was a password for the clubhouse.
+MONICA: Update the environment variables!
+PHOEBE: The secret is love.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm taking a mental health day.
+MONICA: You have a deadline.
+CHANDLER: My mental health has a deadline too.
+ROSS: The burn-down chart is behind.
+JOEY: I'll do your work.
+CHANDLER: You don't know Go.
+JOEY: I'll wing it.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to be an influencer.
+ROSS: Tech influencer?
+RACHEL: I'll post pictures of my laptop.
+CHANDLER: "Felt cute, might delete database later."
+JOEY: Can I be in the background eating?
+MONICA: Make sure the code on the screen is clean.
+
+SCENE: MONICA'S APARTMENT
+
+PHOEBE: I'm mining crypto on your toaster.
+MONICA: That explains why the toast is burnt.
+ROSS: The hashrate of a toaster is negligible.
+PHOEBE: It's about the principle. Decentralized breakfast.
+CHANDLER: I'd pay a bitcoin for a decent bagel right now.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The dashboard needs more charts.
+ROSS: Pie charts or bar charts?
+JOEY: Donut charts.
+CHANDLER: I sense a theme, Joey.
+MONICA: Data visualization must be meaningful.
+PHOEBE: A mood ring chart.
+
+SCENE: THE OFFICE
+
+CHANDLER: My keyboard is sticky.
+JOEY: I spilled soda on it.
+CHANDLER: You spilled soda on my mechanical keyboard?
+JOEY: It was diet! No sugar!
+ROSS: Liquid causes corrosion regardless of sugar content.
+MONICA: Soaking it in distilled water might save it.
+
+SCENE: THE WAR ROOM
+
+MONICA: The cache is stale.
+CHANDLER: Clear it.
+ROSS: Invalidating cache is one of the hardest problems in CS.
+JOEY: Just wait. It'll get fresh.
+PHOEBE: Everything decays in time.
+MONICA: Force refresh!
+
+SCENE: THE OFFICE
+
+RACHEL: How do I exit full screen?
+ROSS: F11.
+RACHEL: I pressed F12. Now I see code.
+CHANDLER: You've entered the Matrix.
+JOEY: Don't touch anything! You'll break the internet!
+MONICA: Just close the developer tools, Rachel.
+
+SCENE: THE COFFEE BREAK
+
+JOEY: I want to automate my dating life.
+CHANDLER: A script that swipes right?
+JOEY: Yeah, on everyone.
+ROSS: That lowers your matching algorithm score.
+MONICA: Quality over quantity, Joey.
+PHOEBE: Let fate decide.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I have a new thesis on sorting algorithms.
+CHANDLER: Bubble sort?
+ROSS: Quicksort is unstable. Merge sort is the way.
+JOEY: I sort by color.
+MONICA: I sort by expiration date.
+CHANDLER: I sort by "easiest to reach".
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: Can we add a "dark web" mode?
+CHANDLER: No.
+RACHEL: Why not? It sounds mysterious.
+ROSS: It involves Tor routing and illegal activities.
+JOEY: I have a flashlight.
+MONICA: Rachel, stick to the roadmap.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who shut down the master node?
+PHOEBE: I thought it was lonely.
+MONICA: You shut it down?
+PHOEBE: I wanted it to have a playdate with the worker nodes.
+ROSS: That is not how clustering works!
+CHANDLER: Now the cluster is broken hearted.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm using a standing desk converter.
+JOEY: It's a cardboard box.
+CHANDLER: It's ergonomic.
+ROSS: The structural integrity is questionable.
+MONICA: It looks like trash.
+CHANDLER: It's upcycling.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a VPN.
+ROSS: Virtual Private Network.
+RACHEL: So I can watch TV from other countries.
+CHANDLER: The true use case of VPN technology.
+JOEY: I watch shows from the future. Time zones.
+MONICA: That's not how time works, Joey.
+
+SCENE: MONICA'S APARTMENT
+
+MONICA: I label my cables.
+CHANDLER: You label your label maker.
+MONICA: Recursion is a valid concept!
+ROSS: Defining the base case is important.
+JOEY: I label my food. "Joey's".
+PHOEBE: I label nothing. I embrace chaos.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need better SEO.
+JOEY: C-E-O? I can be that.
+ROSS: Search Engine Optimization.
+CHANDLER: We need to use keywords.
+PHOEBE: "Magic", "Unicorn", "Sparkle".
+MONICA: "Reliable", "Fast", "Secure".
+
+SCENE: THE WAR ROOM
+
+MONICA: Memory usage is climbing.
+CHANDLER: It's a leak.
+ROSS: Inspect the heap snapshot.
+JOEY: Put a bucket under it.
+PHOEBE: The server is hungry. Feed it data.
+MONICA: Restart the pod!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm writing a bash script.
+ROSS: Be careful with the syntax.
+CHANDLER: I missed a space and deleted my home directory.
+JOEY: Bashing sounds violent.
+MONICA: Always dry run first!
+CHANDLER: I am wet with tears.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want a trackball mouse.
+CHANDLER: It feels like playing arcade games.
+ROSS: It reduces wrist strain.
+JOEY: Can I play Pac-Man on it?
+MONICA: No games at work!
+PHOEBE: Life is a game, Monica.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I set up a RAID array.
+JOEY: Bugs?
+ROSS: Redundant Array of Independent Disks.
+CHANDLER: If one fails, the others survive.
+JOEY: Like us!
+MONICA: Aww, Joey.
+ROSS: Technically, RAID 0 has no redundancy.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The user flow is confusing.
+CHANDLER: It's a maze.
+ROSS: We need a state diagram.
+JOEY: Put arrows on the floor.
+MONICA: In the app, Joey!
+PHOEBE: Let them get lost. It's an adventure.
+
+SCENE: THE WAR ROOM
+
+MONICA: The SSL handshake failed.
+CHANDLER: Too slow.
+ROSS: Certificate chain is incomplete.
+JOEY: High five failed.
+PHOEBE: Maybe they have trust issues.
+MONICA: Install the intermediate cert!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm done with this ticket.
+MONICA: Did you update the status?
+CHANDLER: In my heart.
+MONICA: In Jira!
+ROSS: If it is not in Jira, it did not happen.
+JOEY: Jira is the book of life.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is open source?
+ROSS: Code that is free for anyone to use and modify.
+JOEY: Free stuff? I'll take it.
+CHANDLER: It's free as in speech, not free beer.
+JOEY: I want beer.
+MONICA: You have to contribute back, Joey.
+
+SCENE: MONICA'S APARTMENT
+
+PHOEBE: I made a website for my cat.
+MONICA: Is it responsive?
+PHOEBE: No, the cat ignores it.
+CHANDLER: Just like a real cat.
+ROSS: You should use Cat-GPT.
+JOEY: Nice.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a tagline.
+CHANDLER: "It works... mostly."
+ROSS: "Engineered for excellence."
+JOEY: "Pizza inside."
+MONICA: "Zero bugs guaranteed."
+CHANDLER: That is a lie, Monica.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm refactoring.
+JOEY: You're just staring at the screen.
+CHANDLER: I'm refactoring in my mind.
+ROSS: Mental compilation.
+MONICA: Type the code!
+PHOEBE: Telepathic coding.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who dropped the table?
+CHANDLER: I tripped.
+MONICA: The database table!
+CHANDLER: Oh. Yeah, that was also me.
+ROSS: We have backups... right?
+MONICA: ROSS!
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: My mouse is jittery.
+ROSS: Clean the sensor.
+JOEY: Give it coffee.
+CHANDLER: It's nervous about the deadline.
+MONICA: Get a mousepad!
+PHOEBE: It's trembling with excitement.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I love LaTeX.
+CHANDLER: TMI.
+ROSS: The typesetting system!
+JOEY: I like leather.
+MONICA: For documents, Joey!
+RACHEL: You guys are weird.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The deadline is tight.
+CHANDLER: I'll sleep when I'm dead.
+MONICA: You'll sleep when the build passes.
+ROSS: Sleep is essential for cognitive function.
+JOEY: I can sleep with my eyes open.
+PHOEBE: I code in my dreams.
+
+SCENE: THE OFFICE
+
+CHANDLER: Syntax error on line 1.
+MONICA: What is line 1?
+CHANDLER: The opening bracket.
+ROSS: You have the wrong encoding.
+JOEY: It's in Spanish?
+CHANDLER: It's in pain.
+
+SCENE: THE WAR ROOM
+
+MONICA: The queue is backed up.
+CHANDLER: Add more consumers.
+ROSS: We need to optimize the processing logic.
+JOEY: Shout at it to move faster.
+PHOEBE: It's a traffic jam. Beep beep.
+MONICA: Scale the workers!
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to be a scrum master.
+CHANDLER: You want to herds cats?
+ROSS: It requires discipline and organization.
+JOEY: Do I get a whip?
+MONICA: No whips! just sticky notes.
+PHOEBE: I'll be the scrum wizard.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: My laptop is overheating.
+JOEY: Put an ice pack on it.
+ROSS: Condensation will destroy the circuits.
+MONICA: Clean the fans!
+CHANDLER: I'm just going to blow on it.
+PHOEBE: Give it a fever reducer.
+
+SCENE: THE OFFICE
+
+MONICA: Who used `var` instead of `const`?
+ROSS: It was legacy code.
+MONICA: It was written yesterday!
+CHANDLER: I was feeling nostalgic for 2014.
+JOEY: Var sounds like bar. I like bars.
+MONICA: ES6 features only!
+
+SCENE: THE OFFICE
+
+MONICA: Who unplugged the router?
+JOEY: I needed the outlet for my lava lamp.
+MONICA: You killed the company internet for a lamp?
+JOEY: The lava was hardening! It needs heat!
+ROSS: The packets are now dropped. The lava is flowing. Priorities.
+CHANDLER: I guess we are working offline today.
+PHOEBE: I'll route the traffic through my crystals.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The users want to know why the app is blue.
+ROSS: It is #0000FF. Pure blue.
+RACHEL: They want it to be "happier".
+CHANDLER: Blue is the color of sadness. It fits our codebase.
+JOEY: I can make it yellow. Like a banana.
+MONICA: Stick to the style guide!
+
+SCENE: THE WAR ROOM
+
+MONICA: The server room is overheating.
+CHANDLER: Open a window.
+ROSS: It is a climate-controlled environment!
+JOEY: I'll fan it with a pizza box.
+PHOEBE: Maybe the server has a fever.
+MONICA: Turn on the backup AC!
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I think I deleted the production database.
+MONICA: You think?
+CHANDLER: I'm 90% sure.
+ROSS: Did you use a transaction?
+CHANDLER: No, I live on the edge.
+JOEY: Can we undelete it? Like Ctrl-Z?
+MONICA: *Screaming internally*
+
+SCENE: THE OFFICE
+
+RACHEL: I need a new laptop. This one is slow.
+ROSS: It has an i9 processor and 64GB of RAM.
+RACHEL: But it's grey. I want the rose gold one.
+CHANDLER: Performance is measured in color now.
+JOEY: I painted mine with nail polish.
+MONICA: You voided the warranty!
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: I wrote a script to predict the future.
+ROSS: That is a predictive model.
+PHOEBE: It says we will merge a bug today.
+CHANDLER: That's not a prediction, that's a guarantee.
+JOEY: Does it say what I'm having for lunch?
+PHOEBE: Meatball sub.
+JOEY: It works!
+
+SCENE: THE STANDUP MEETING
+
+MONICA: Everyone needs to update their passwords.
+CHANDLER: Again?
+MONICA: 14 characters, one symbol, one number, one uppercase.
+JOEY: "JoeyIsHungry1!"
+MONICA: Don't say it out loud!
+ROSS: Now the entropy is zero.
+CHANDLER: "ChandlerIsTired2@"
+
+SCENE: THE WAR ROOM
+
+MONICA: Latency is high in Asia.
+CHANDLER: Maybe the packets are tired from swimming.
+ROSS: It is a submarine cable fault.
+JOEY: Sharks again?
+PHOEBE: Godzilla.
+MONICA: Reroute the traffic!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm stuck in a meeting.
+ROSS: You are sitting right here.
+CHANDLER: A Zoom meeting. With no camera.
+JOEY: Put a loop of yourself nodding.
+CHANDLER: I recorded myself sleeping.
+MONICA: Pay attention!
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: How do I copy text?
+ROSS: Ctrl-C.
+RACHEL: And paste?
+ROSS: Ctrl-V.
+JOEY: I just take a picture and type it again.
+CHANDLER: That is the most inefficient OCR I have ever heard of.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need to launch on Black Friday.
+CHANDLER: That is suicide.
+ROSS: Traffic spikes will increase by 400%.
+JOEY: We'll be famous!
+MONICA: We'll be down!
+PHOEBE: We'll be shopping.
+
+SCENE: THE OFFICE
+
+MONICA: Why is the build red?
+JOEY: I broke the test.
+MONICA: Fix it!
+JOEY: I deleted the test. Now it's green.
+ROSS: That is cheating.
+CHANDLER: It's pragmatism.
+
+SCENE: THE COFFEE BREAK
+
+CHANDLER: I need more coffee.
+ROSS: You have had four cups.
+CHANDLER: My code requires caffeine to compile.
+JOEY: I drink soda. Sugar rush.
+MONICA: Hydrate with water!
+PHOEBE: Drink herbal tea. Calm the code.
+
+SCENE: THE WAR ROOM
+
+MONICA: The payment gateway is rejecting cards.
+CHANDLER: Are they declined?
+ROSS: It's a timeout.
+JOEY: Kick the server.
+PHOEBE: It needs money. Feed it coins.
+MONICA: Check the API keys!
+
+SCENE: THE OFFICE
+
+RACHEL: Can we add music to the website?
+CHANDLER: No.
+RACHEL: Just a little background tune.
+ROSS: Autoplaying audio is a UX violation.
+JOEY: I want rock and roll.
+MONICA: Silence is golden.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I bought a 3D printer.
+CHANDLER: To print what?
+ROSS: Parts for my other 3D printer.
+JOEY: Can you print pizza?
+MONICA: Don't print food on it!
+PHOEBE: Print a friend for me.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The logo is too small.
+MONICA: It is 200 pixels.
+RACHEL: Make it 500.
+ROSS: It will push the content below the fold.
+JOEY: Make it the whole page.
+CHANDLER: Just a giant logo. No app.
+
+SCENE: THE OFFICE
+
+CHANDLER: My IDE crashed.
+ROSS: You have too many plugins.
+CHANDLER: I need the rainbow brackets!
+JOEY: I code in Notepad. No crashes.
+MONICA: Notepad has no linting!
+JOEY: I live dangerously.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who pushed to master?
+JOEY: *Raises hand slowly*
+MONICA: You bypassed the review!
+JOEY: It was a hotfix!
+ROSS: It broke the login!
+CHANDLER: It was a cold-break.
+
+SCENE: THE COFFEE BREAK
+
+PHOEBE: I'm making an NFT collection.
+ROSS: Please don't.
+PHOEBE: Pictures of Smelly Cat.
+CHANDLER: I'll buy one.
+JOEY: Can I eat it?
+MONICA: It's a token, Joey!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need AI.
+CHANDLER: For what?
+RACHEL: To be smart.
+ROSS: Machine learning is not magic.
+JOEY: I'm smart. Use me.
+MONICA: You failed the Turing test yesterday.
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: My internet is out.
+MONICA: Did you pay the bill?
+CHANDLER: I thought you paid it.
+ROSS: Autopay is a thing.
+JOEY: I'll sing for the cable guy.
+PHOEBE: Use telepathy.
+
+SCENE: THE OFFICE
+
+MONICA: Clean your desk, Chandler.
+CHANDLER: It's my ecosystem.
+MONICA: It's a fire hazard.
+ROSS: The entropy is too high.
+JOEY: I found a donut!
+CHANDLER: That's from last week.
+
+SCENE: THE WAR ROOM
+
+MONICA: The disk is full.
+CHANDLER: Delete `node_modules`.
+ROSS: We need those.
+CHANDLER: Do we?
+JOEY: Delete the "System32" folder.
+MONICA: JOEY NO!
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to learn Python.
+ROSS: It is very readable.
+RACHEL: Does it hiss?
+CHANDLER: Only when it raises an exception.
+JOEY: I like snakes.
+MONICA: Focus on the syntax.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The user interface is confusing.
+ROSS: It follows the material design guidelines.
+RACHEL: My mom couldn't use it.
+CHANDLER: Is your mom the target demographic?
+JOEY: My mom loves it. She clicked all the buttons.
+MONICA: Did she break it?
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm automating myself.
+ROSS: You wrote a script?
+CHANDLER: It replies "Looks good to me" on every PR.
+MONICA: Chandler!
+JOEY: Can I have that script?
+PHOEBE: The robot uprising begins.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I set up a firewall.
+JOEY: Is there actual fire?
+ROSS: No, it blocks packets.
+CHANDLER: It blocks fun.
+MONICA: It blocks hackers!
+PHOEBE: Let the hackers in. They need love too.
+
+SCENE: THE WAR ROOM
+
+MONICA: Memory leak.
+CHANDLER: Restart the server.
+ROSS: We need to find the root cause.
+CHANDLER: Restarting fixes it for now.
+JOEY: Just turn it off and leave it off.
+MONICA: We run a business!
+
+SCENE: THE OFFICE
+
+PHOEBE: I'm coding in Comic Sans.
+MONICA: My eyes!
+ROSS: It is unprofessional.
+PHOEBE: It's whimsical.
+CHANDLER: It makes the bugs look like jokes.
+JOEY: I like it. It's funny.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a dongle.
+CHANDLER: Which one?
+RACHEL: The white one.
+ROSS: That narrows it down to 50 types.
+JOEY: Just tape the wires together.
+MONICA: Do not create a short circuit!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a mascot.
+JOEY: A duck.
+CHANDLER: A chick.
+ROSS: A dinosaur.
+MONICA: A clean server rack.
+PHOEBE: A smelly cat.
+
+SCENE: THE OFFICE
+
+CHANDLER: My code is compiling.
+ROSS: It's Python. It doesn't compile.
+CHANDLER: I'm transcompiling it to C++.
+MONICA: Why?
+CHANDLER: For speed. And pain.
+JOEY: I'm compiling a sandwich.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I love Excel.
+CHANDLER: You are sick.
+ROSS: It is a Turing-complete language.
+JOEY: It has boxes. I like boxes.
+MONICA: I organize my life in Excel.
+RACHEL: I just use a napkin.
+
+SCENE: THE WAR ROOM
+
+MONICA: SQL Injection.
+CHANDLER: Someone entered "DROP TABLE".
+ROSS: Sanitize the inputs!
+JOEY: I used soap.
+MONICA: Parameterized queries!
+PHOEBE: Ask the database nicely.
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm wearing noise-canceling headphones.
+ROSS: I can still see you.
+CHANDLER: But I can't hear you.
+JOEY: *Waves frantically*
+MONICA: He's ignoring us.
+CHANDLER: Bliss.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: What is a pixel?
+ROSS: A picture element.
+JOEY: A tiny dot.
+CHANDLER: A source of frustration.
+PHOEBE: A fairy.
+MONICA: A unit of measurement!
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The app is too slow.
+ROSS: We are optimizing the render cycle.
+JOEY: Put a "loading..." text.
+CHANDLER: Put a game while it loads.
+MONICA: Make it faster!
+PHOEBE: Patience is a virtue.
+
+SCENE: THE OFFICE
+
+CHANDLER: I hate timezones.
+ROSS: UTC is the standard.
+CHANDLER: But the user is in EST.
+JOEY: What time is it in space?
+MONICA: Use a library! Moment.js!
+ROSS: Moment.js is deprecated.
+
+SCENE: THE WAR ROOM
+
+MONICA: The logs are spamming.
+CHANDLER: Turn off the logger.
+ROSS: Then we are flying blind.
+JOEY: Wear sunglasses.
+PHOEBE: Read the logs like tea leaves.
+MONICA: Filter by error level!
+
+SCENE: MONICA'S APARTMENT
+
+CHANDLER: I bought a mechanical keyboard.
+MONICA: It clicks.
+CHANDLER: It clacks.
+ROSS: It is tactile.
+JOEY: It's annoying.
+RACHEL: Can you type quietly?
+
+SCENE: THE OFFICE
+
+PHOEBE: I renamed the variables to be names of flowers.
+MONICA: Why?
+PHOEBE: To make the code smell good.
+ROSS: `Rose` is undefined.
+CHANDLER: `Tulip` caused a stack overflow.
+JOEY: `Pizza` is my favorite flower.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I want to be a hacker.
+CHANDLER: Step 1: Hoodie.
+ROSS: Step 2: Linux.
+JOEY: Step 3: Type fast.
+MONICA: Step 4: Don't break the law.
+PHOEBE: Step 5: Hack the planet.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: We need a dark mode.
+MONICA: It's on the roadmap.
+JOEY: I made the screen black.
+ROSS: You turned off the monitor.
+CHANDLER: Ultimate dark mode.
+PHOEBE: The void mode.
+
+SCENE: THE WAR ROOM
+
+MONICA: Who has the root password?
+CHANDLER: I forgot it.
+ROSS: It's in the vault.
+JOEY: I wrote it on my hand.
+MONICA: You washed your hands!
+JOEY: Hygiene is important!
+
+SCENE: THE OFFICE
+
+CHANDLER: I'm deleting comments.
+ROSS: Why?
+CHANDLER: They are lies.
+MONICA: Update them!
+JOEY: I like comments. They are like little notes.
+PHOEBE: Secrets in the code.
+
+SCENE: MONICA'S APARTMENT
+
+ROSS: I built a server rack.
+CHANDLER: In the living room?
+MONICA: It matches the furniture.
+JOEY: It's loud.
+ROSS: It's the sound of data.
+PHOEBE: It's humming.
+
+SCENE: THE STANDUP MEETING
+
+RACHEL: The font is ugly.
+ROSS: It's Helvetica.
+RACHEL: I want Comic Sans.
+CHANDLER: I quit.
+MONICA: No Comic Sans!
+JOEY: Papyrus?
+
+SCENE: THE OFFICE
+
+CHANDLER: My build failed.
+ROSS: Read the error.
+CHANDLER: It's in red.
+JOEY: Red is bad.
+MONICA: Fix it!
+PHOEBE: Maybe it's just angry.
+
+SCENE: THE COFFEE BREAK
+
+RACHEL: I need a new mouse.
+CHANDLER: Take mine.
+RACHEL: It's sticky.
+JOEY: Sorry.
+MONICA: Germs!
+ROSS: sanitize it.

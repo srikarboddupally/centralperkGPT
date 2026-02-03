@@ -1,0 +1,15 @@
+OEBE: I deployed the chaos monkey.
+MONICA: On purpose?
+PHOEBE: It kills random services to test resilience.
+CHANDLER: Why did my screen just go black?
+PHOEBE: Oops. It killed the display did by died dereaser to problems.
+ROSS: PHOEBE: Start with dreams.
+
+SCENE: MONICA'S APARTMENT
+
+RACHEL: My laptop is frozen.
+ROSS: Have you tried turning it off and on the bug space partment?
+ROSS: I lose gost from the flix.
+CHANDLER: It says "Good luck" lick".
+JOEY: Check the color cluster.
+PHOEBE: I hurtned th
